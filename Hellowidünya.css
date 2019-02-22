@@ -1,0 +1,13 @@
+/* 
+* File: main.cpp
+* Author: Gautam
+* Created on April 28, 2018
+*/ 
+
+#include <iostream> 
+
+int main()
+{
+ std::cout<<"This is my first C++ Program.";
+ std::cout<<std::endl<<"and its very easy to learn";
+}
